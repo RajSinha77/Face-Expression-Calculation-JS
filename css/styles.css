@@ -16,7 +16,7 @@ canvas {
 header {
     position: absolute;
     top: 0px;
-    background-color: black;
+    background-color: blue;
     color: #0000FF;
     width: 100vw;
     justify-content: center;
